@@ -1,0 +1,10 @@
+name: ChatRP
+author: Danko10
+main: ru.danko.chatrp.Main
+version: 1.0
+commands:
+ rp:
+ ooc:
+ chatrp:
+ Shout:
+ Whisper:

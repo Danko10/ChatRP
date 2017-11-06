@@ -1,0 +1,20 @@
+﻿##Во всех сообщениях есть возможность использовать цвета формулой '&'
+Message:
+ Already_this_type: '&cВы уже выбради этот тип!'
+ Not_permissions: 'У вас нет прав на это!'
+ Change_to_OOC: 'Тип сменён на OCC'
+ Change_to_RP: 'Тип сменён на RP'
+ Whisper_use: 'Используйте -&c /whisper [Сообщение]'
+ Shout_use: 'Используйте -&c /shout [Сообщение]'
+ Shout_dont_RP: '&cКричать можно только в РП чате!'
+ Whisper_dont_RP: '&cШептать можно только в РП чате!'
+OOC_Format: '&8[&6OOC&8]&r<prefix> <player><suffix>  <message>'
+RP_Format: '&8[&cRP&8]&r<prefix> <player><suffix>  <message>'
+Whisper_FormatA: '&cВы шепнули:&6 <message>'
+Whisper_FormatB: '&c<player> шепнул:&6 <message>'
+Shout_FormatA: '&cВы крикнули:&6 <message>'
+Shout_FormatB: '&c<player> крикнул:&6 <message>'
+RP_Range: 7.5
+##При радиусе 1.1 нужно стоять прижавшись к игроку или на 0.15 от него (примерно)
+Whisper_Range: 1.1 
+Shout_Range: 25.0
